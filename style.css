@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+div.hero{
+    font-family: 'Times New Roman', Times, serifS;
+    background-color: rgb(240, 194, 194);
+    color: black;
+    float:initial
+
+
+}
